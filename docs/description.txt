@@ -1,0 +1,1 @@
+The polsoft.ITS Tools Hub is a Windows launcher for nine PowerShell utilities covering Windows and Office downloads, Linux and rescue images, server media, ISO verification, Office deployment, and Ventoy USB management. Built with Python and PyQt5.
